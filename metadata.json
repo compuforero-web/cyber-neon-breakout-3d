@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Neon Breakout 3D",
+  "description": "Videojuego arcade 3D de acción frenética, reflejos y destrucción cuántica con 10 niveles, batallas de jefes, power-ups, audio sintetizado y exportación HTML5 en un solo archivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
